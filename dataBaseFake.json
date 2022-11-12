@@ -1,0 +1,239 @@
+{
+    "services": [
+      { 
+        "id": 1, 
+        "title": "Investimentos", 
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, in. Sed magnam temporibus nisi. Saepe, neque laudantium aperiamtenetur vel, impedit cupiditate rerum perferendis provident ipsa,assumenda Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, in. Sed magnam temporibus nisi. Saepe, neque laudantium aperiamtenetur vel, impedit cupiditate rerum perferendis provident ipsa,assumenda Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, in. Sed magnam temporibus nisi. Saepe, neque laudantium aperiamtenetur vel, impedit cupiditate rerum perferendis provident ipsa,assumenda elit. Maxime, in. Sed magnam temporibus nisi. Saepe, neque laudantium aperiamtenetur vel, impedit cupiditate rerum perferendis provident ipsa,assumenda Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, in. Sed magnam temporibus nisi. Saepe, neque laudantium aperiamtenetur vel, impedit cupiditate rerum perferendis provident ipsa,assumendaLorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, in. Sed magnam temporibus nisi. Saepe, neque laudantium aperiamtenetur vel, impedit cupiditate rerum perferendis provident ipsa,assumenda  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, in. Sed magnam temporibus nisi. Saepe, neque laudantium aperiamtenetur vel, impedit cupiditate rerum perferendis provident ipsa,assumenda"
+      },
+      { 
+        "id": 2, 
+        "title": "Open Innovation", 
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, in. Sed magnam temporibus nisi. Saepe, neque laudantium aperiamtenetur vel, impedit cupiditate rerum perferendis provident ipsa,assumenda Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, in. Sed magnam temporibus nisi. Saepe, neque laudantium aperiamtenetur vel, impedit cupiditate rerum perferendis provident ipsa,assumenda Lorem ipsum dolor sit amet consectetur, adipisicing" 
+      },
+      { 
+        "id": 3, 
+        "title": "Pitch Moove", 
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, in. Sed magnam temporibus nisi. Saepe, neque laudantium aperiamtenetur vel, impedit cupiditate rerum perferendis provident ipsa,assumenda" 
+      }
+      
+    ],
+    "about": [
+      {
+        "title":"O que somos?",
+        "subTitle":"Uma fábrica de startups!",
+        "description":[
+          "Osten Moove chega ao mercado como uma Aceleradora Venture Builder, focada no desenvolvimento de tecnologias alinhadas com as estratégias do modelo de negócio da startup.", "Com mais de 20 anos de experiência no mercado e um grande networking com ecossistema de empreendedorismo e comunidades de de startups do Brasil, temos um time de especialistas prontos para oferecer desenvolvimento tecnológico, gestão estratégica, mentorias e uma estrutura de governança."
+        ]
+      }
+    ],
+    "partners":[
+      {
+        "namePartners": "Osten Moove",
+        "urlPartners": "https://www.ostenmoove.com.br/",
+        "imagePartners": "https://www.ostenmoove.com.br/images/parceiros/ABStartup.png"
+        
+      },
+      {
+        "namePartners": "Osten Moove",
+        "urlPartners": "https://www.ostenmoove.com.br/",
+        "imagePartners": "https://www.ostenmoove.com.br/images/parceiros/startupi.png"
+      },      
+      {
+        "namePartners": "Osten Moove",
+        "urlPartners": "https://www.ostenmoove.com.br/",
+        "imagePartners": "https://www.ostenmoove.com.br/images/parceiros/angehub.png"
+      },      
+      {
+        "namePartners": "Osten Moove",
+        "urlPartners": "https://www.ostenmoove.com.br/",
+        "imagePartners": "https://www.ostenmoove.com.br/images/parceiros/citz.png"
+      },      
+      {
+        "namePartners": "Osten Moove",
+        "urlPartners": "https://www.ostenmoove.com.br/",
+        "imagePartners": "https://www.ostenmoove.com.br/images/parceiros/angehub.png"
+      },      
+      {
+        "namePartners": "Osten Moove",
+        "urlPartners": "https://www.ostenmoove.com.br/",
+        "imagePartners": "https://www.ostenmoove.com.br/images/parceiros/Hiroshima.jpg"
+      },      
+      {
+        "namePartners": "Osten Moove",
+        "urlPartners": "https://www.ostenmoove.com.br/",
+        "imagePartners": "https://www.ostenmoove.com.br/images/parceiros/Patrimonio.png"
+      },      
+      {
+        "namePartners": "Osten Moove",
+        "urlPartners": "https://www.ostenmoove.com.br/",
+        "imagePartners": "https://www.ostenmoove.com.br/images/parceiros/NEB.png"
+      },      
+      {
+        "namePartners": "Osten Moove",
+        "urlPartners": "https://www.ostenmoove.com.br/",
+        "imagePartners": "https://www.ostenmoove.com.br/images/parceiros/Hiroshima.jpg"
+      },      
+      {
+        "namePartners": "Osten Moove",
+        "urlPartners": "https://www.ostenmoove.com.br/",
+        "imagePartners": "https://www.ostenmoove.com.br/images/parceiros/Patrimonio.png"
+      },      
+      {
+        "namePartners": "Osten Moove",
+        "urlPartners": "https://www.ostenmoove.com.br/",
+        "imagePartners": "https://www.ostenmoove.com.br/images/parceiros/NEB.png"
+      },      
+      {
+        "namePartners": "Osten Moove",
+        "urlPartners": "https://www.ostenmoove.com.br/",
+        "imagePartners": "https://www.ostenmoove.com.br/images/parceiros/Hiroshima.jpg"
+      },      
+      {
+        "namePartners": "Osten Moove",
+        "urlPartners": "https://www.ostenmoove.com.br/",
+        "imagePartners": "https://www.ostenmoove.com.br/images/parceiros/Patrimonio.png"
+      },      
+      {
+        "namePartners": "Osten Moove",
+        "urlPartners": "https://www.ostenmoove.com.br/",
+        "imagePartners": "https://www.ostenmoove.com.br/images/parceiros/NEB.png"
+      }
+    ],
+    "news": [
+      {
+        "id": 1,
+        "title": "SBT lança NFTs de Silvio Santos em comemoração aos 40 anos da emissora",
+        "description": "Em comemoração aos seus 40 anos de existência, o SBT anunciou o lançamento e a venda de quatro tokens não-fungíveis (NFTs) - espécie de criptoativo que pode conter arquivos de áudio, vídeo ou imagens e que é único e indivisível. É o primeiro canal de televisão do país a entrar no setor, que tem crescido rapidamente e movimentado cifras bilionárias ao redor do mundo.",
+        "urlNews": "https://exame.com/future-of-money/sbt-lanca-nfts-de-silvio-santos-em-comemoracao-aos-40-anos-da-emissora/",
+        "urlImg": "https://cms.ostenmoove.com.br/wp-content/uploads/2021/10/sbt.jpg"
+      },      
+      {
+        "id": 1,
+        "title": "SBT lança NFTs de Silvio Santos em comemoração aos 40 anos da emissora",
+        "description": "Em comemoração aos seus 40 anos de existência, o SBT anunciou o lançamento e a venda de quatro tokens não-fungíveis (NFTs) - espécie de criptoativo que pode conter arquivos de áudio, vídeo ou imagens e que é único e indivisível. É o primeiro canal de televisão do país a entrar no setor, que tem crescido rapidamente e movimentado cifras bilionárias ao redor do mundo.",
+        "urlNews": "https://exame.com/future-of-money/sbt-lanca-nfts-de-silvio-santos-em-comemoracao-aos-40-anos-da-emissora/",
+        "urlImg": "https://cms.ostenmoove.com.br/wp-content/uploads/2021/10/sbt.jpg"
+      },      
+      {
+        "id": 1,
+        "title": "SBT lança NFTs de Silvio Santos em comemoração aos 40 anos da emissora",
+        "description": "Em comemoração aos seus 40 anos de existência, o SBT anunciou o lançamento e a venda de quatro tokens não-fungíveis (NFTs) - espécie de criptoativo que pode conter arquivos de áudio, vídeo ou imagens e que é único e indivisível. É o primeiro canal de televisão do país a entrar no setor, que tem crescido rapidamente e movimentado cifras bilionárias ao redor do mundo.",
+        "urlNews": "https://exame.com/future-of-money/sbt-lanca-nfts-de-silvio-santos-em-comemoracao-aos-40-anos-da-emissora/",
+        "urlImg": "https://cms.ostenmoove.com.br/wp-content/uploads/2021/10/sbt.jpg"
+      },
+      {
+        "id": 1,
+        "title": "SBT lança NFTs de Silvio Santos em comemoração aos 40 anos da emissora",
+        "description": "Em comemoração aos seus 40 anos de existência, o SBT anunciou o lançamento e a venda de quatro tokens não-fungíveis (NFTs) - espécie de criptoativo que pode conter arquivos de áudio, vídeo ou imagens e que é único e indivisível. É o primeiro canal de televisão do país a entrar no setor, que tem crescido rapidamente e movimentado cifras bilionárias ao redor do mundo.",
+        "urlNews": "https://exame.com/future-of-money/sbt-lanca-nfts-de-silvio-santos-em-comemoracao-aos-40-anos-da-emissora/",
+        "urlImg": "https://cms.ostenmoove.com.br/wp-content/uploads/2021/10/sbt.jpg"
+      },
+      {
+        "id": 1,
+        "title": "SBT lança NFTs de Silvio Santos em comemoração aos 40 anos da emissora",
+        "description": "Em comemoração aos seus 40 anos de existência, o SBT anunciou o lançamento e a venda de quatro tokens não-fungíveis (NFTs) - espécie de criptoativo que pode conter arquivos de áudio, vídeo ou imagens e que é único e indivisível. É o primeiro canal de televisão do país a entrar no setor, que tem crescido rapidamente e movimentado cifras bilionárias ao redor do mundo.",
+        "urlNews": "https://exame.com/future-of-money/sbt-lanca-nfts-de-silvio-santos-em-comemoracao-aos-40-anos-da-emissora/",
+        "urlImg": "https://cms.ostenmoove.com.br/wp-content/uploads/2021/10/sbt.jpg"
+      }
+    ],
+    "startup":[
+      {
+        "title": "Nossas startups",
+        "description": "Aceleramos e investimos em pessoas criativas e inovadoras que são 'hands on', que possuem negócios de inovação tecnológica altamente escaláveis."
+      }
+    ],
+    "startups": [ 
+        {
+          "id":1,
+          "title": "Sayme",
+          "urlImg": "https://cms.ostenmoove.com.br/wp-content/uploads/2022/03/say-me.jpg",
+          "urlLink": "http://sayme.com.br/"
+        },
+        {
+          "id":1,
+          "title": "Sayme",
+          "urlImg": "https://cms.ostenmoove.com.br/wp-content/uploads/2022/03/say-me.jpg",
+          "urlLink": "http://sayme.com.br/"
+        },
+        {
+          "id":1,
+          "title": "Sayme",
+          "urlImg": "https://cms.ostenmoove.com.br/wp-content/uploads/2022/03/say-me.jpg",
+          "urlLink": "http://sayme.com.br/"
+        },
+        {
+          "id":1,
+          "title": "Sayme",
+          "urlImg": "https://cms.ostenmoove.com.br/wp-content/uploads/2022/03/say-me.jpg",
+          "urlLink": "http://sayme.com.br/"
+        },
+        {
+          "id":1,
+          "title": "Sayme",
+          "urlImg": "https://cms.ostenmoove.com.br/wp-content/uploads/2022/03/say-me.jpg",
+          "urlLink": "http://sayme.com.br/"
+        },
+        {
+          "id":1,
+          "title": "Sayme",
+          "urlImg": "https://cms.ostenmoove.com.br/wp-content/uploads/2022/03/say-me.jpg",
+          "urlLink": "http://sayme.com.br/"
+        },
+        {
+          "id":1,
+          "title": "Sayme",
+          "urlImg": "https://cms.ostenmoove.com.br/wp-content/uploads/2022/03/say-me.jpg",
+          "urlLink": "http://sayme.com.br/"
+        },
+        {
+          "id":1,
+          "title": "Sayme",
+          "urlImg": "https://cms.ostenmoove.com.br/wp-content/uploads/2022/03/say-me.jpg",
+          "urlLink": "http://sayme.com.br/"
+        },
+        {
+          "id":1,
+          "title": "Sayme",
+          "urlImg": "https://cms.ostenmoove.com.br/wp-content/uploads/2022/03/say-me.jpg",
+          "urlLink": "http://sayme.com.br/"
+        }
+    ],
+    "blog": {
+      "title":"Blog Moove para você",
+      "description":"Saiba tudo sobre startups, inovação e empreendedorismo"
+    },
+    "blog-posts":[
+      {
+        "id":1,
+        "title":"Em apenas um ano de mercado, Osten Moove já alcança o páreo das 10 aceleradoras indicadas para o Startup Awards 2022",
+        "description":"São Paulo, outubro de 2022 – A Osten Moove, aceleradora de startups do Grupo Osten, já alcançou uma posição privilegiada no ecossistema inovador: a indicação para o Startup Awards 2022. A premiação é uma das principais do mercado e demonstra a relevância alcançada pelo grupo em apenas um ano de trabalho. São Paulo, outubro de 2022 – A Osten Moove, aceleradora de startups do Grupo Osten, já alcançou uma posição privilegiada no ecossistema inovador: a indicação para o Startup Awards 2022. A premiação é uma das principais do mercado e demonstra a relevância alcançada pelo grupo em apenas um ano de trabalho.São Paulo, outubro de 2022 – A Osten Moove, aceleradora de startups do Grupo Osten, já alcançou uma posição privilegiada no ecossistema inovador: a indicação para o Startup Awards 2022. A premiação é uma das principais do mercado e demonstra a relevância alcançada pelo grupo em apenas um ano de trabalho.",
+        "urlImg": "https://cms.ostenmoove.com.br/wp-content/uploads/2022/09/image-2.png",
+        "urlLink": "https://www.ostenmoove.com.br/blog/como-as-comunidades-startupeiras-tem-o-poder-de-fortalecer-economias-regionais"
+      },
+      {
+        "id":2,
+
+        "title":"Em apenas um ano de mercado, Osten Moove já alcança o páreo das 10 aceleradoras indicadas para o Startup Awards 2022",
+        "description":"São Paulo, outubro de 2022 – A Osten Moove, aceleradora de startups do Grupo Osten, já alcançou uma posição privilegiada no ecossistema inovador: a indicação para o Startup Awards 2022. A premiação é uma das principais do mercado e demonstra a relevância alcançada pelo grupo em apenas um ano de trabalho. São Paulo, outubro de 2022 – A Osten Moove, aceleradora de startups do Grupo Osten, já alcançou uma posição privilegiada no ecossistema inovador: a indicação para o Startup Awards 2022. A premiação é uma das principais do mercado e demonstra a relevância alcançada pelo grupo em apenas um ano de trabalho.São Paulo, outubro de 2022 – A Osten Moove, aceleradora de startups do Grupo Osten, já alcançou uma posição privilegiada no ecossistema inovador: a indicação para o Startup Awards 2022. A premiação é uma das principais do mercado e demonstra a relevância alcançada pelo grupo em apenas um ano de trabalho.",
+        "urlImg": "https://cms.ostenmoove.com.br/wp-content/uploads/2022/09/image-1.png",
+        "urlLink": "https://www.ostenmoove.com.br/blog/e-essencial-que-o-brasileiro-entenda-como-agir-no-mercado-de-criptoativos"
+      },
+      {
+        "id":3,
+
+        "title":"Em apenas um ano de mercado, Osten Moove já alcança o páreo das 10 aceleradoras indicadas para o Startup Awards 2022",
+        "description":"São Paulo, outubro de 2022 – A Osten Moove, aceleradora de startups do Grupo Osten, já alcançou uma posição privilegiada no ecossistema inovador: a indicação para o Startup Awards 2022. A premiação é uma das principais do mercado e demonstra a relevância alcançada pelo grupo em apenas um ano de trabalho. São Paulo, outubro de 2022 – A Osten Moove, aceleradora de startups do Grupo Osten, já alcançou uma posição privilegiada no ecossistema inovador: a indicação para o Startup Awards 2022. A premiação é uma das principais do mercado e demonstra a relevância alcançada pelo grupo em apenas um ano de trabalho.São Paulo, outubro de 2022 – A Osten Moove, aceleradora de startups do Grupo Osten, já alcançou uma posição privilegiada no ecossistema inovador: a indicação para o Startup Awards 2022. A premiação é uma das principais do mercado e demonstra a relevância alcançada pelo grupo em apenas um ano de trabalho.",
+        "urlImg": "https://cms.ostenmoove.com.br/wp-content/uploads/2022/09/image.png",
+        "urlLink": "https://www.ostenmoove.com.br/blog/uma-analise-clinica-das-demissoes-em-massa-nas-startups-brasileiras"
+      }
+      
+    ],
+    "comments": [
+      {
+        "id": 1, 
+        "body": "some comment", 
+        "postId": 1 
+      }
+    ],
+    "profile": { "name": "typicode" }
+}
