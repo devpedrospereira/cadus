@@ -13,13 +13,13 @@ export const UserDataFaker = {
     state: "SP",
     number: "123",
     complement: "",
-    InfosAdditional: "",
+    district: "centro",
 
     bloodType: "A+",
+    InfosAdditional: "",
     comorbidity: "Sim, Obesidade",
     familyComorbidity: "Sim, Obesidade",
     surgery: "sim, bariátrica",
-    district: "centro",
     Allergies: "Sim, abelha",
     historyRecords: "",
 };

@@ -74,7 +74,7 @@ export default function Login() {
                 {errors.name && (
                   <span className="text-red-400">Preencha esse campo</span>
                 )}
-                <label className="w-full">
+                <label className="w-full mt-6">
                   <TextField
                     className="w-full mt-4"
                     id="email"
@@ -89,7 +89,7 @@ export default function Login() {
                   <span className="text-red-400">Preencha esse campo</span>
                 )}
 
-                <label className="w-full">
+                <label className="w-full mt-6">
                   <TextField
                     className="w-full mt-4"
                     id="password"
