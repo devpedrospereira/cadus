@@ -1,0 +1,25 @@
+export const UserDataFaker = {
+    name: "Pedro Oliveira dos Santos Silva",
+    email: "pedro_oliveira@gmail.com",
+    password: "sono@12",
+    nameMother: "Eduarda da Silva Party",
+    dateBirth: "12/02/1999",
+    cpf: "198.343.245-12",
+    rg: "4.123.12",
+
+    cep: "03651-060",
+    city: "São Paulo",
+    street: "R. Tapari, Esperança - SP",
+    state: "SP",
+    number: "123",
+    complement: "",
+    InfosAdditional: "",
+
+    bloodType: "A+",
+    comorbidity: "Sim, Obesidade",
+    familyComorbidity: "Sim, Obesidade",
+    surgery: "sim, bariátrica",
+    district: "centro",
+    Allergies: "Sim, abelha",
+    historyRecords: "",
+};

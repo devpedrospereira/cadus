@@ -18,12 +18,3 @@ a {
 * {
   box-sizing: border-box;
 }
-
-@media (prefers-color-scheme: dark) {
-  html {
-  }
-  body {
-    /* color: white; */
-    /* background: black; */
-  }
-}
