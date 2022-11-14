@@ -41,10 +41,6 @@ export default function Dashboard() {
   //   ShowDataUser();
   // }
 
-  function teste() {
-    console.log("aa");
-  }
-
   return (
     <>
       <section className="w-full md:py[4rem] min-h-screen  md:py-[4rem] flex items-center justify-center bg-gray-200 ">
@@ -123,12 +119,6 @@ export default function Dashboard() {
           )} */}
 
           {showInforUser ? <ShowDataUser /> : <ShowListAttendance />}
-
-          <div className="w-full flex items-center justify-center">
-            <Link href={"/"}>
-              <Button>voltar</Button>
-            </Link>
-          </div>
         </section>
       </section>
     </>

@@ -66,6 +66,7 @@ export default function Login() {
                     className="w-full mt-4"
                     id="name"
                     label="Nome completo"
+                    value="Pedro Oliveira dos Santos Silva"
                     variant="outlined"
                     {...register("name", { required: true })}
                   />
@@ -78,6 +79,7 @@ export default function Login() {
                     className="w-full mt-4"
                     id="email"
                     label="E-mail"
+                    value="pedro_oliveira@gmail.com"
                     variant="outlined"
                     type="email"
                     {...register("email", { required: true })}
@@ -92,6 +94,7 @@ export default function Login() {
                     className="w-full mt-4"
                     id="password"
                     label="Senha"
+                    value="testetestest"
                     variant="outlined"
                     type="password"
                     {...register("password", { required: true })}
